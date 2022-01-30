@@ -11,9 +11,12 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Hey, I'm checks" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          tiktok: qjz
+          checkz#2808
+          or 
+          checkz#5882
         </p>
       </main>
 
