@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Hey, I'm checks" />
         <p className="description">
-          tiktok: qjz
+         
           checkz#2808
           or 
           checkz#5882
