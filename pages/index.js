@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Hey, I'm checks" />
+        <Header title="hi im checks" />
         <p className="description">
          
           checkz#2808
